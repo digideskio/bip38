@@ -1,0 +1,24 @@
+{
+  "name": "bip38",
+  "version": "1.1.2",
+  "homepage": "https://github.com/felipecsl/bip38",
+  "authors": [
+    "Felipe Lima <felipe.lima@gmail.com>"
+  ],
+  "description": "BIP38 is a standard process to encrypt Bitcoin and crypto currency private keys that is impervious to brute force attacks thus protecting the user.",
+  "main": "lib/browser.js",
+  "keywords": [
+    "bitcoin",
+    "crypto",
+    "cryptography"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
